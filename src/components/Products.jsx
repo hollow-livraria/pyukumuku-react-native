@@ -21,7 +21,6 @@ const styles = StyleSheet.create({
     display: "flex",
     marginTop: 20,
     gap: 10,
-    border: "1px solid yellow"
   },
   body: {
     display: "flex",
